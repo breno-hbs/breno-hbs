@@ -1,74 +1,50 @@
-# 👩🏻‍💻 Breno Henrique 
+# Breno Henrique Bortoloti
 
-**`Futuro Desenvolvedor FullStack`**
-
-Me chamo Breno Henrique Bortoloti Santos, tenho 22 anos e moro em São Paulo. Concluí o ensino médio na Etec de Sapopemba, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software na FIAP. 
-
-<p align="left">
-    <a href="https://github.com/breno-hbs?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/breno-hbs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+**Desenvolvedor Back-End Java (Estágio)**  
+Engenharia de Software – FIAP
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🚀 Sobre mim
+Estudo Engenharia de Software e estou focado no desenvolvimento Back-End com Java.  
+Atualmente sigo uma formação prática com Java + Spring Boot, construindo APIs REST, integração com bancos de dados e aplicando boas práticas do ecossistema Spring.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Busco meu primeiro estágio em Back-End Java para trabalhar com APIs reais, arquitetura limpa e evolução contínua.
 
-<br/>
-<br/>
+---
 
-### 📊 Estatísticas
+## 🔧 Tecnologias
+- Java  
+- Spring Boot  
+- Spring Data JPA  
+- JPA / Hibernate  
+- APIs REST  
+- MySQL / SQL  
+- Maven  
+- Git & GitHub  
 
-<img align="left" alt="GitHub Stats" height="180px" src="https://github-readme-stats.vercel.app/api?username=breno-hbs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+---
 
-<img align="left" alt="Top Langs" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breno-hbs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+## 📚 Estudando no momento
+- Spring Boot (REST, validações, camadas e padrões)  
+- JPA/Hibernate + MySQL  
+- Testes automatizados (JUnit, Mockito)  
 
-<br clear="both"/>
+---
 
+## 📂 Projetos (em desenvolvimento)
+Portfólio focado em Back-End Java, incluindo:
+- CRUDs com Spring Boot  
+- API REST com JPA/Hibernate + MySQL  
+- Arquitetura em camadas  
+- Testes unitários  
+- Documentação com Swagger  
 
+*(Os projetos serão adicionados conforme avanço da formação.)*
 
+---
+
+## 📞 Contato
+LinkedIn: https://linkedin.com/in/breno-bortoloti  
+GitHub: https://github.com/breno-hbs  
+E-mail: SEU_EMAIL_AQUI
