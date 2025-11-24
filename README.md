@@ -40,8 +40,6 @@ Portfólio focado em Back-End Java, incluindo:
 - Testes unitários  
 - Documentação com Swagger  
 
-*(Os projetos serão adicionados conforme avanço da formação.)*
-
 ---
 
 ## 📞 Contato
