@@ -45,4 +45,4 @@ Portfólio focado em Back-End Java, incluindo:
 ## 📞 Contato
 LinkedIn: https://linkedin.com/in/breno-bortoloti  
 GitHub: https://github.com/breno-hbs  
-E-mail: SEU_EMAIL_AQUI
+E-mail: brenohbs13@gmail.com
