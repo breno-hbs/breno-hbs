@@ -16,8 +16,6 @@ Busco meu primeiro estágio em Back-End Java para trabalhar com APIs reais, arqu
 ## 🔧 Tecnologias
 - Java  
 - Spring Boot  
-- Spring Data JPA  
-- JPA / Hibernate  
 - APIs REST  
 - MySQL / SQL  
 - Maven  
@@ -27,18 +25,15 @@ Busco meu primeiro estágio em Back-End Java para trabalhar com APIs reais, arqu
 
 ## 📚 Estudando no momento
 - Spring Boot (REST, validações, camadas e padrões)  
-- JPA/Hibernate + MySQL  
-- Testes automatizados (JUnit, Mockito)  
+MySQL   
 
 ---
 
 ## 📂 Projetos (em desenvolvimento)
 Portfólio focado em Back-End Java, incluindo:
 - CRUDs com Spring Boot  
-- API REST com JPA/Hibernate + MySQL  
-- Arquitetura em camadas  
+- API REST + MySQL  
 - Testes unitários  
-- Documentação com Swagger  
 
 ---
 
