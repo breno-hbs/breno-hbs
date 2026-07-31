@@ -1,39 +1,38 @@
 # Breno Henrique Bortoloti
 
-**Desenvolvedor Back-End Java (Estágio)**  
+**Desenvolvedor Full Stack em formação | Java & React)**  
 Engenharia de Software – FIAP
 
 ---
 
 ## 🚀 Sobre mim
-Estudo Engenharia de Software e estou focado no desenvolvimento Back-End com Java.  
-Atualmente sigo uma formação prática com Java + Spring Boot, construindo APIs REST, integração com bancos de dados e aplicando boas práticas do ecossistema Spring.
+Estudo Engenharia de Software na FIAP e estou construindo uma base full stack — back-end com Java e Spring Boot, front-end com React e JavaScript.
 
-Busco meu primeiro estágio em Back-End Java para trabalhar com APIs reais, arquitetura limpa e evolução contínua.
+Atualmente sigo uma formação prática com Java + Spring Boot na Alura, aprofundando APIs REST, integração com bancos de dados e boas práticas do ecossistema Spring.
+
+Busco meu primeiro estágio em desenvolvimento para trabalhar com projetos reais, arquitetura limpa e evolução contínua.
 
 ---
 
 ## 🔧 Tecnologias
 - Java  
 - Spring Boot  
-- APIs REST  
-- MySQL / SQL  
-- Maven  
-- Git & GitHub  
-
+- React 
+- JavaScript 
+- APIs REST
+- MySQL / SQL
+- Git & GitHub
 ---
 
 ## 📚 Estudando no momento
-- Spring Boot (REST, validações, camadas e padrões)  
-MySQL   
+- Spring Boot (REST, validações, camadas e padrões) 
+- MySQL   
 
 ---
 
-## 📂 Projetos (em desenvolvimento)
-Portfólio focado em Back-End Java, incluindo:
-- CRUDs com Spring Boot  
-- API REST + MySQL  
-- Testes unitários  
+## 📂 Projetos 
+- NOVVA — plataforma de conexão profissional-empresa (React, Vite, TailwindCSS)
+- A Última Gota — site responsivo (HTML, CSS, JavaScript)
 
 ---
 
