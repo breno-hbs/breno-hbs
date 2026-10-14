@@ -32,7 +32,7 @@ Busco meu primeiro estágio em desenvolvimento para trabalhar com projetos reais
   
 ---
 
-## 📂 Projetos 
+# 📂 Projetos 
 - mini-tars: servidor MCP em Python e FastAPI, publicado no PyPI, com 92 testes automatizados e CI no GitHub Actions.
 - NOVVA: front-end com React, Vite e TailwindCSS (projeto FIAP).
 
