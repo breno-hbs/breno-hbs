@@ -35,6 +35,7 @@ Busco meu primeiro estágio em desenvolvimento para trabalhar com projetos reais
 ## 📂 Projetos 
 - mini-tars: servidor MCP em Python e FastAPI, publicado no PyPI, com 92 testes automatizados e CI no GitHub Actions.
 - NOVVA: front-end com React, Vite e TailwindCSS (projeto FIAP).
+- Assistente financeiro (Telegram e Google Sheets): bot em Java e Spring Boot, em execução, que registra gastos e consulta o orçamento numa planilha pelo Telegram.
 
 ---
 
